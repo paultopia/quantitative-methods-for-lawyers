@@ -37,6 +37,10 @@
 
 - [Open Law Lab/Margaret Hagan](http://www.openlawlab.com/)
 
+- [ABA Center for Innovation](http://abacenterforinnovation.org/)
+
+- [ABA Legal Analytics Committee (in the Business Law Section)](https://apps.americanbar.org/dch/committee.cfm?com=CL570000)
+
 ## Great Piles of Legal Data
 
 - [Courtlistener](https://www.courtlistener.com/)
