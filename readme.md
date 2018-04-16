@@ -22,6 +22,6 @@ The course will be aimed at an introductory level, for students who have no subs
 
 As I said at the beginning of this document, this is an open source course. I have about 8 months to put it together, and I would love to have access to the wisdom of the vast legal tech/data community about how to best provide an introduction to this kind of material to law students. So, please, explore the repository, make suggestions!  Feel free to file an issue, or just go all the way and file a pull request. (All text contents are in [Pandoc](http://pandoc.org/)-style Markdown.) 
 
-It's licensed under a very forgiving Creative Commons license, and as it develops, I'll be creating some of my own issues with calls for suggestions and discussion. After the course is taught for the first time, I'll also invite the students to make their own contributions. 
+It's licensed under a very forgiving Creative Commons license, and as it develops, I'll be creating some of my own issues with calls for suggestions and discussion (Update: just created the first one.  [What are your suggestions on the tech stack for this course?](https://github.com/paultopia/quantitative-methods-for-lawyers/issues/1)). After the course is taught for the first time, I'll also invite the students to make their own contributions. 
 
 Because it's licensed under Creative Commons, I hope that when the course is complete it will inspire other law professors to remix it and create their own technical offerings. Let's tech up the law!

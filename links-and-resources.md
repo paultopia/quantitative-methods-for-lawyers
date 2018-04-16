@@ -12,7 +12,7 @@
 - [Data Camp for the Classroom](https://www.datacamp.com/groups/education)
 
 
-## People and Places 
+## People and places making legal tech 
 
 - [Legal Hackers](https://legalhackers.org/)
 
