@@ -3,6 +3,8 @@
 
 ## Other courses
 
+- [Syllabi commons](http://techforlawstudents.classcaster.net/syllabi-commons/) -- a ton of legal-tech oriented courses
+
 - Dan Katz's [Quantitative Methods](http://www.quantitativemethodsclass.com/) and [Legal Analytics](http://www.legalanalyticscourse.com/)
 
 - Carl Bergstrom & Jevin West's [Calling Bullshit](http://callingbullshit.org/)
@@ -44,3 +46,13 @@
 ## Great Piles of Legal Data
 
 - [Courtlistener](https://www.courtlistener.com/)
+
+## Texts, tutorials, etc.
+
+- V. David Zvenyach's [Coding for Lawyers](http://codingforlawyers.com/)
+
+- [Online Statistics Education: An Interactive Multimedia Course of Study](http://onlinestatbook.com/2/index.html)
+
+## Inspiring code and daya projects for students
+
+- Many utilities by [V. David Zvenyach](https://esq.io/pages/projects.html)
