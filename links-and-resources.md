@@ -11,8 +11,9 @@
 
 - [Data Camp for the Classroom](https://www.datacamp.com/groups/education)
 
+- [MIT-IAP Computational Law](https://mitmedialab.github.io/2018-MIT-IAP-ComputationalLaw/)
 
-## People and places making legal tech 
+## Other people and places making legal tech 
 
 - [Legal Hackers](https://legalhackers.org/)
 
@@ -24,7 +25,9 @@
 
 - [Suffolk Legal Innovation & Technology Lab/David Colarusso](http://suffolklitlab.org/)
 
-- [Harry Surden, Colorado](http://www.harrysurden.com/wordpress/)
+- [Harry Surden, Colorado](http://www.harrysurden.com/wordpress/)i
+
+- [James Grimmelmann](http://james.grimmelmann.net/)
 
 - [ABA Techshow](http://www.techshow.com/)
 
