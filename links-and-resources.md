@@ -13,6 +13,8 @@
 
 - [MIT-IAP Computational Law](https://mitmedialab.github.io/2018-MIT-IAP-ComputationalLaw/)
 
+- [Hotshot Intro to Stats](https://www.hotshotlegal.com/courses/introduction-to-statistics)
+
 ## Other people and places making legal tech 
 
 - [Legal Hackers](https://legalhackers.org/)
