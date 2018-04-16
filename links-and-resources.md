@@ -17,6 +17,8 @@
 
 - [Hotshot Intro to Stats](https://www.hotshotlegal.com/courses/introduction-to-statistics)
 
+- David Colarusso's [Coding the Law](http://www.codingthelaw.org/)
+
 ## Other people and places making legal tech 
 
 - [Legal Hackers](https://legalhackers.org/)
