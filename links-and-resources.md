@@ -19,6 +19,8 @@
 
 - David Colarusso's [Coding the Law](http://www.codingthelaw.org/)
 
+- Cat Moon's [Legal Problem Solving](http://www.legalproblemsolving.org/
+
 ## Other people and places making legal tech 
 
 - [Legal Hackers](https://legalhackers.org/)
