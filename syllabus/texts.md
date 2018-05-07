@@ -22,6 +22,8 @@ Charles Wheelan, Naked Statistics: Stripping the Dread from the Data
 
 Uri Bram, Thinking Statistically
 
+Lawless, et. al., Empirical Methods in Law
+
 
 ## Computation
 
