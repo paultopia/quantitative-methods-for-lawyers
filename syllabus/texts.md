@@ -18,6 +18,7 @@ Lee Epstein & Andrew Martin, An Introduction to Empirical Legal Research
 
 Peter Bruce & Andrew Bruce, Practical Statistics for Data Scientists
 
+Michael A. Bailey, Real Stats: Using Econometrics for Political Science and Public Policy
 
 Computation
 
