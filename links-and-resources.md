@@ -19,7 +19,9 @@
 
 - David Colarusso's [Coding the Law](http://www.codingthelaw.org/)
 
-- Cat Moon's [Legal Problem Solving](http://www.legalproblemsolving.org/
+- Cat Moon's [Legal Problem Solving](http://www.legalproblemsolving.org/)
+
+- Will Moore and Savid Siegel's version of a [political science math camp](http://people.duke.edu/%7Edas76/MooSieBook.html)
 
 ## Other people and places making legal tech 
 
