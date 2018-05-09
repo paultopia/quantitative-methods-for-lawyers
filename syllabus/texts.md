@@ -2,7 +2,7 @@
 
 *[Readings as yet to be determined, but books under consideration include the following. Obviously I won't assign them all.]*
 
-Statistics
+## Statistics
 
 Michael Finkelstein & Bruce Levin, Statistics for Lawyers
 
@@ -20,10 +20,19 @@ Peter Bruce & Andrew Bruce, Practical Statistics for Data Scientists
 
 Michael A. Bailey, Real Stats: Using Econometrics for Political Science and Public Policy
 
-Computation
+Charles Wheelan, Naked Statistics: Stripping the Dread from the Data
+
+Uri Bram, Thinking Statistically
+
+Lawless, et. al., Empirical Methods in Law
+
+
+## Computation
 
 Allen Downey, Think Python, 2nd edition
 
 Al Sweigart, Automate the Boring Stuff with Python
 
 John Guttag, Introduction to Computation and Programming Using Python
+
+

@@ -1,4 +1,4 @@
-Course coverage and Organization
+# Course coverage and Organization
 
 Approximately five weeks will be spent on basic computation, and nine weeks on probability and statistics via computational methods. 
 
@@ -18,6 +18,8 @@ Week 7: Probability distributions, Central limit theorem.
 
 Week 8: Hypothesis testing, statistical epistemology. Focused legal application: statistical evidence of discrimination.
 
+*Do I want an experiments section in here, focusing on audit tests like those used by housing discriminating organizations?*
+
 Week 9. Statistical dangers (part 1): Statistical significance and its misuse, statistical power, common statistical blunders, paradoxes, and fallacies.  Statistical evidence of discrimination continued, the famous Berkeley sex discrimination/Simpson’s paradox case.
 
 Week 10.  Statistical dangers (part 2), continuation of previous week.  Problem set 3 due.
@@ -27,6 +29,8 @@ Week 11.  Linear regression (and ways it can go wrong). Logistic regression as m
 Week 12: Correlation vs. causation.  Experiments, quasi-experiments, natural experiments.  
 
 Week 13: Prediction and machine learning.  Focused legal application: predicting judicial outcomes.
+
+*Possibly include an algorithmic accountability section here, returning to running example of discrimination and considering possibility of actionable discrimination by machine learning?*
 
 Week 14: Text as data, natural language processing.  Focused legal application: machine-reading contracts.  Problem set 4 due.
 
