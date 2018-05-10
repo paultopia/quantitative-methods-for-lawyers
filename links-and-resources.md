@@ -17,7 +17,7 @@
 
 - [Hotshot Intro to Stats](https://www.hotshotlegal.com/courses/introduction-to-statistics)
 
-- David Colarusso's [Coding the Law](http://www.codingthelaw.org/)
+- David Colarusso's [Coding the Law](http://www.codingthelaw.org/) and [Data Science Demystified](http://suffolklitlab.org/howto/#demystified)
 
 - Cat Moon's [Legal Problem Solving](http://www.legalproblemsolving.org/)
 
