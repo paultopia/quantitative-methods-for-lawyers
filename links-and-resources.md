@@ -23,6 +23,8 @@
 
 - Will Moore and Savid Siegel's version of a [political science math camp](http://people.duke.edu/%7Edas76/MooSieBook.html)
 
+- Wolfgang Alschner's [Data Science for Lawyers](http://www.legaldatascience.org)
+
 ## Other people and places making legal tech 
 
 - [Legal Hackers](https://legalhackers.org/)
@@ -62,3 +64,22 @@
 ## Inspiring code and daya projects for students
 
 - Many utilities by [V. David Zvenyach](https://esq.io/pages/projects.html)
+
+## Little datasets for students to play with
+
+- A [collection by Vicki Boykis](http://veekaybee.github.io/2018/07/23/small-datasets/).
+
+## Resources for teaching (tech pedagogy, misc materials and exercises, etc.)
+
+- [Teaching Tech Together](http://teachtogether.tech)
+
+- [Software Carpentry](https://software-carpentry.org) and [Data Carpentry](https://datacarpentry.org)
+
+## Free stuff for educational purposes
+
+- [DataCamp for the Classroom](https://www.datacamp.com/groups/education) (free!)
+
+- [Tableau Academic](https://www.tableau.com/academic)
+
+- [Github Education](https://education.github.com)
+
