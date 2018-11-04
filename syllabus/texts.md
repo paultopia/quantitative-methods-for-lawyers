@@ -36,3 +36,7 @@ Al Sweigart, Automate the Boring Stuff with Python
 John Guttag, Introduction to Computation and Programming Using Python
 
 Charles Severance, [Python For Everybody](https://www.py4e.com/book) (the Python 3 edition of [Python for Informatics](https://www.pythonlearn.com/book.php)
+
+## Misc/general
+
+Barbara Oakley *A Mind for Numbers* and Coursera course "Learning how to learn"
