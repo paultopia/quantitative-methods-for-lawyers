@@ -47,4 +47,6 @@ For example, a number of cities have filed lawsuits against mortgage lenders, al
 
 The worry about such statistical evidence is that it might be *confounded* by *omitted variables*. This is just a fancy stats-person way of saying what we said before about the medical test. Suppose that the city filing the suit has a lot of racial segregation and concentrated poverty---it might be the case that the victims of that segregation get worse loan terms because they've suffered financial disadvantage affecting their creditworthiness, not because of intentional discrimination by the lender. 
 
-As alternative to randomization (also known as "experimental controls"), researchers use "statistical controls" to try to solve this problem. We will spend a lot of time on statistical controls in this course, so I won't dig too deeply in here. But you should be able to see that being able to make sense of these concepts will help you in your practice. 
+As alternative to randomization (also known as "experimental controls"), researchers use "statistical controls" to try to solve this problem. We will spend a lot of time on statistical controls in this course, so here's just a taste now. 
+
+You will hopefully be able to see that being able to make sense of these concepts will help you in your practice. This is just an introduction, we'll dig in much deeper in the weeks to come.
