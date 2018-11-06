@@ -10,30 +10,29 @@ I am committed to only assigning resources which are free to students. However, 
 
 I really like the Aspen textbook by Lawless, Robbennolt and Ulen, [Empirical Methods in Law](http://www.aspenlawschool.com/books/empirical_methods/). It has very good clear explanations of a number of research methods topics, and is not overly math-y. If you want to dig deeper into stats and empirical research in law, I highl recommend it.  I also recommend Lee Epstein & Andrew Martin, [An Introduction to Empirical Legal Research](https://global.oup.com/academic/product/an-introduction-to-empirical-legal-research-9780199669066?cc=us&lang=en&). 
 
-If you want to do serious research on your own, you will need to move to more advanced texts, but the direction you go will depend on the particular kind of research you want to conduct. For expermental research, especially experimental research out in the world (like the kinds of things done by discrimination testers, about which we will talk), a classic text is 
+If you want to do serious research on your own, you will need to move to more advanced texts, but the direction you go will depend on the particular kind of research you want to conduct. For expermental research, especially experimental research out in the world (like the kinds of things done by discrimination testers, about which we will talk), a classic text is Gerber & Green [Field Experiments: Design, Analysis and Interpretation](https://global.oup.com/academic/product/an-introduction-to-empirical-legal-research-9780199669066?cc=us&lang=en&); if you are more interested in observational research, I really like Angrist & Pischke, [Mastering Metrics](http://masteringmetrics.com/). Both of those books are rather-more math-y than the others (or our class).
+
+Some other books that might be of interest to you, though I haven't reviewed them as closely and can't as enthusiastially endorse, include:
+
+- Peter Bruce & Andrew Bruce, Practical Statistics for Data Scientists
+
+- Michael A. Bailey, Real Stats: Using Econometrics for Political Science and Public Policy
+
+- Charles Wheelan, Naked Statistics: Stripping the Dread from the Data
+
+- Uri Bram, Thinking Statistically
 
 
-Matthew J. Salganik, Bit by Bit: Social Research in the Digital Age
+## Programming
 
+My favorite introductory Python book (not free) is John Guttag, [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-revised-and-expanded-edition).  This book is also the basis for a wonderful electronic [course by almost the same name MIT on EdX](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python) --- and you can go through the course for free, and without buying the book.  I really do think that course (and the second course in the same series) is an amazing way to learn Python, and programming in general.
 
-Peter Bruce & Andrew Bruce, Practical Statistics for Data Scientists
-
-Michael A. Bailey, Real Stats: Using Econometrics for Political Science and Public Policy
-
-Charles Wheelan, Naked Statistics: Stripping the Dread from the Data
-
-Uri Bram, Thinking Statistically
-
-Lawless, et. al., Empirical Methods in Law
-
-
-## Computation
+Blessedly, there are a lot of good Python programming books out there which are also free. 
 
 Allen Downey, Think Python, 2nd edition
 
 Al Sweigart, Automate the Boring Stuff with Python
 
-John Guttag, Introduction to Computation and Programming Using Python
 
 Charles Severance, [Python For Everybody](https://www.py4e.com/book) (the Python 3 edition of [Python for Informatics](https://www.pythonlearn.com/book.php)
 
