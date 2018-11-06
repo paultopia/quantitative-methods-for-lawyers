@@ -1,10 +1,12 @@
 # Texts
 
-*[Readings as yet to be determined, but books under consideration include the following. Obviously I won't assign them all.]*
+The main readings for this course will be drawn from [Charles Severance, Python for Everybody](https://www.py4e.com/book), which is available for free online, and [Michael Finkelstein & Bruce Levin, Statistics for Lawyers](https://link.springer.com/book/10.1007%2F978-1-4419-5985-0) which should be free to download as PDF through our library's subscription. (You may have to be on the campus network to download it; you might also have to search for it through the library's directory.)  In addition, we will make use of some videos and exercises from [DataCamp](https://www.datacamp.com/), which has free accounts available for educational purposes; I'm in the process of signing our class up for that access.  There will also be copious readings written by me available online on the public-facing website, and some copyrighted stuff that I can't distribute publicly on ICON.
+
+I am committed to only assigning resources which are free to students. However, the nature of this material is that sometimes one explanation will just "click" where another might not.  So in addition to the assigned readings, I offer you this list of additional, non-free, readings which you might consult for a different perspective on the material---or for deeper engagement and exploration.  
+
+
 
 ## Statistics
-
-Michael Finkelstein & Bruce Levin, Statistics for Lawyers
 
 Federal Judicial Center, Reference Manual on Scientific Evidence
 
