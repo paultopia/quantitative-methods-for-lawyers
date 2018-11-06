@@ -27,15 +27,12 @@ Some other books that might be of interest to you, though I haven't reviewed the
 
 My favorite introductory Python book (not free) is John Guttag, [Introduction to Computation and Programming Using Python](https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-revised-and-expanded-edition).  This book is also the basis for a wonderful electronic [course by almost the same name MIT on EdX](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python) --- and you can go through the course for free, and without buying the book.  I really do think that course (and the second course in the same series) is an amazing way to learn Python, and programming in general.
 
-Blessedly, there are a lot of good Python programming books out there which are also free. 
+Blessedly, there are a lot of good introductory Python programming books out there which are also available online for free. One of my favorites is Al Sweigart, [Automate the Boring Stuff with Python](https://automatetheboringstuff.com). For more advanced (and non-free) learning, I really love Luciano Ramalho's [Fluent Python](http://shop.oreilly.com/product/0636920032519.do), although by the time you need that you should be looking at building fairly substantial programs. 
 
-Allen Downey, Think Python, 2nd edition
-
-Al Sweigart, Automate the Boring Stuff with Python
+On the whole, it is better to use a Python book that is based on Python 3, not Python 2. 
 
 
-Charles Severance, [Python For Everybody](https://www.py4e.com/book) (the Python 3 edition of [Python for Informatics](https://www.pythonlearn.com/book.php)
 
 ## Misc/general
 
-Barbara Oakley *A Mind for Numbers* and Coursera course "Learning how to learn"
+I highly recommend Barbara Oakley's book [A Mind for Numbers](https://barbaraoakley.com/books/a-mind-for-numbers/), which is basically a self-help book on the psychology of learning difficult things---which can help you not just in math-y classes but in law school and other classes in general. There's an online course based on her book on Coursera, called [Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn); I've never looked at that course but everyone who has done so has raved about it. 
