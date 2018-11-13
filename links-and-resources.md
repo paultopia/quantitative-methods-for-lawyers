@@ -75,6 +75,8 @@
 
 - [Software Carpentry](https://software-carpentry.org) and [Data Carpentry](https://datacarpentry.org)
 
+- materials from [data8](http://data8.org)
+
 ## Free stuff for educational purposes
 
 - [DataCamp for the Classroom](https://www.datacamp.com/groups/education) (free!)
