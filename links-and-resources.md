@@ -61,6 +61,8 @@
 
 - [Online Statistics Education: An Interactive Multimedia Course of Study](http://onlinestatbook.com/2/index.html)
 
+- [A really cool set of animated graphs of causal inference techniques](http://nickchk.com/causalgraphs.html)
+
 ## Inspiring code and daya projects for students
 
 - Many utilities by [V. David Zvenyach](https://esq.io/pages/projects.html)
