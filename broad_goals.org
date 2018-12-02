@@ -1,0 +1,38 @@
+
+* Programming
+
+** Be able to write basic programs to automate repetitive tasks
+
+*** Fundamentals of programming: variables, loops, data types, functions
+
+**** Problem set 1: class beginners programming problem, like hangman or
+something,
+
+*** Libraries, installing and using
+
+*** Access data
+
+**** Open files
+
+**** Make network requests
+
+*** Problem-solve with code
+
+**** Work through problem sets with realistic tasks
+
+***** Problem set 2: do something interesting with legal text data, like
+Enron or courtlistener. Probably make some graphs too.
+
+**** Distinctive legal tasks
+
+***** String manipulation, regex
+
+** Be able to engage in basic data visualization and analysis
+
+*** Common libraries
+
+**** Pandas, Seaborn
+
+** Be able to learn more, have an intellectual foundation
+
+
