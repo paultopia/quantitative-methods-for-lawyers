@@ -1,14 +1,21 @@
-
 * Programming
 
 ** Be able to write basic programs to automate repetitive tasks
 
-*** Fundamentals of programming: variables, loops, data types, functions
+*** Fundamentals of programming: variables, loops, data types,
+functions, state
 
-**** Problem set 1: class beginners programming problem, like hangman or
+Problem set 1: classic beginners programming problem, like hangman or
 something,
 
+**** Objects and basic OOP??
+
 *** Libraries, installing and using
+
+Conceptually, this follows nicely from functions: it's just another form
+of code modularity/reuse. Will have to explain some of the stuff under
+the surface about dependencies, how the same model tracks out to
+unixland etc.
 
 *** Access data
 
@@ -16,23 +23,174 @@ something,
 
 **** Make network requests
 
+***** And api calls?
+
+This is another excuse for courtlistener data, since they have a nice
+API. Also case.law? They also have a great "beginner's introduction to
+APIs" https://case.law/api/#beginners
+
 *** Problem-solve with code
 
 **** Work through problem sets with realistic tasks
 
-***** Problem set 2: do something interesting with legal text data, like
-Enron or courtlistener. Probably make some graphs too.
+Problem set 2: do something interesting with legal text data, like Enron
+or courtlistener. Probably make some graphs too.
 
 **** Distinctive legal tasks
 
 ***** String manipulation, regex
 
-** Be able to engage in basic data visualization and analysis
+This also suggests Enron data or courtlistener/case.law. Could ask them
+to, for example, extract all citations from a particular case... or even
+from a brief!
+
+** Be able to engage in basic data visualization and exploration
 
 *** Common libraries
 
 **** Pandas, Seaborn
 
+*** Plotting toolkit
+
+**** Histograms
+
+**** Scatterplots
+
+**** Boxplots
+
+*** Exploratory data analysis toolkit
+
+**** Crosstabs
+
+**** Maybe some fancy pandas stuff?
+
+**** Measures of central tendency
+
+**** Basic properties of data (discrete vs continuous etc.)
+
+**** Standard deviation, percentiles, etc.
+
 ** Be able to learn more, have an intellectual foundation
 
+*** Perhaps exposure to other programming languages for purposes of
+comparison/abstraction? (Javascript? R? Racket??!!)
 
+* Stats
+
+** Understand basic ideas of probability
+
+*** Randomness, variables
+
+Maybe they need this, maybe they don't? Will help with understanding
+presentation of stats stuff in other texts?
+
+*** Expectation
+
+Connect to expected value from Econ? Also, this conceptual level stuff
+they definitely need because every proof in stats relies on properties
+of expectations---should work students through an example from a real
+text somewhere, possibly from mastering metrics or gerber/green or
+something.
+
+Loss of a chance in torts possibly comes in here too.
+
+*** Bayes rule, conditional probability, independence
+
+Legal application: sobriety testing. Is there actual evidence on this
+somewhere? Also, laser speed detectors! And maybe hair follicle testing?
+DNA tests?
+
+** Distributions
+
+*** Conceptual understanding, PDF and CDF, how they help us
+
+*** Normal distribution and central limit theorem
+
+*** Other common distributions and where they appear
+
+**** Binomial, poisson, etc.
+
+**** With practical examples of how this is usable
+
+IRS tax fraud detection with distribution of numbers? General empirical
+verification of distributions? We're not going to get into
+non-parametric modeling and such.
+
+** Causal analysis
+
+*** Classic build-up from RCTs to controls and such, rooted in matching
+
+*** Conceptual introduction to econometrics
+
+*** Prediction vs inference
+
+*** Some of the causal diagram stuff from Book of Why maybe?!
+
+** Hypothesis testing
+
+*** Relationship to distributions and to causal analysis (get the
+conceptual stuff sound)
+
+Do this graphically. Show the statistically significant areas of
+distros, etc. This may be a way to sneak in learning about libraries in
+a lower-level: have students install a teaching library that just has my
+code for generating all of these graphics. And give them documentation
+in standard programmer style, make them look at the vis via calls.
+
+*** Classic boring stuff: chi\^2, anova, t-test, etc.
+
+Go through this quickly, as I believe it's what shows up in AP classes,
+undergrad psych majors, etc.
+
+** Regression
+
+Problem set 3 to cover the core stats material and regression, longer
+and bigger in grade than prior 2.
+
+Possibly better to have some mini problem sets as well, or break up set
+3 into 2 parts and have five psets total? One problem set is really not
+enough practice.
+
+*** Basic idea as line-fitting
+
+*** Assumptions and their fragility
+
+*** Logit
+
+** Ways to screw up
+
+Problem set 4 should come from this material, but also be comprehensive:
+e.g., critique analysis, analyze a dataset without screwing up. Also can
+incorporate bias material, essentially can be like a law school final
+(but longer and take home) where the fact pattern is some preexisting
+analysis and facts and data surrounding it, and students are to analyze.
+
+*** P-values and their dangers
+
+*** Simpson's paradox
+
+Berkeley sex discrimination example
+
+*** Greiner critique of regression
+
+(griener? Harvard guy with the synthetic discrimination dataset)
+
+*** Power and underpoweredness
+
+Should discuss the replication crisis in psychology here.
+
+* Frontiers (time permitting)
+
+** Machine learning and prediction
+
+Predicting judicial results, let them just read papers
+
+** Algorithmic bias, role of lawyers in
+
+And existence in legal system. Predictive policing, new CA bail
+alternative in risk assessment. Maybe have them read Virginia Eubanks
+work, such as child abuse one :
+https://www.wired.com/story/excerpt-from-automating-inequality/
+
+This is probably much more important, given time limitations, than
+predicting judicial results.
