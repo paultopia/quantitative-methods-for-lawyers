@@ -1,0 +1,98 @@
+* Introduction to Python (4 hours)
+
+https://www.datacamp.com/courses/intro-to-python-for-data-science
+
+** Variables
+
+** Lists (but not dicts?!)
+
+** Functions
+
+** Libraries
+
+** Numpy arrays and subsets
+
+* Intermediate Python for Data Science (4 hours)
+
+https://www.datacamp.com/courses/intermediate-python-for-data-science
+
+** Matplotlib
+
+** Dicts
+
+** Pandas
+
+** Control flow
+
+** Loops
+
+* Python Data Science Toolbox (part 1) (3 hours)
+
+https://www.datacamp.com/courses/python-data-science-toolbox-part-1
+
+** Writing functions
+
+* Importing data in python, part 2 (2 hours)
+
+https://www.datacamp.com/courses/importing-data-in-python-part-2 I
+really only want them to have chapter 2, which is about apis. But may
+not work because assumes a prior datacamp course with flat files and
+such.
+
+** APIs
+
+** JSON
+
+* Statistical thinking in Python part 1 (3 hours)
+
+https://www.datacamp.com/courses/statistical-thinking-in-python-part-1
+
+** Exploratory data analysis
+
+** Bernoilli
+
+** Binomial
+
+** Poisson
+
+** Normal
+
+** Exponential
+
+* Statistical thinking in python part 2 (4 hours)
+
+https://www.datacamp.com/courses/statistical-thinking-in-python-part-2
+
+** Regression
+
+** Bootstrap confidence intervals
+
+** Hypothesis tests (including on correlation)
+
+* Case studies in statistical thinking (4 hours)
+
+https://www.datacamp.com/courses/case-studies-in-statistical-thinking
+
+** Practice.
+
+* Introduction to linear modeling in python (4 hrs)
+
+https://www.datacamp.com/courses/introduction-to-linear-modeling-in-python
+Probably good as an optional advanced.\\
+Or maybe for regression weeks.
+
+** Lots of regression mechanics.
+
+* Statistical simulation in python (4 hrs)
+
+https://www.datacamp.com/courses/statistical-simulation-in-python Seems
+quite advanced, but I want some of it early for simulation intro?? Maybe
+I can do a brief simulation intro before this?
+
+** Simulating randomness
+
+** Probability concepts
+
+** Bootstrap, jackknife
+
+** Power analysis (!!!))
