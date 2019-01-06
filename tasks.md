@@ -10,7 +10,7 @@
 
 ## Out of class
 
-- [ ] Day 3: Libraries, error handling
+- [X] Day 3: Libraries, error handling
 
 - [ ] All the rest
 
@@ -58,6 +58,8 @@
 - [ ] Show them where anaconda is, encourage them to install
 
 - [ ] Go over syllabus
+
+- [ ] Show basic Jupiter usage
 
 # Notes
 
