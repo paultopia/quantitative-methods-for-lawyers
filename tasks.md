@@ -41,6 +41,10 @@
 
 - [ ] Look into JupyterLab
 
+- [ ] Find Richard Sander data and King et al critique
+
+- [ ] Reorganize lessons on website and here by day
+
 - [ ] Figure out how students should turn in assignments. (Notebooks on icon?)
 
 # First day of class
